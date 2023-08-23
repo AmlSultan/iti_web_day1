@@ -1,0 +1,32 @@
+.uber-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.uber-button:hover {
+  opacity: 0.8;
+}
+
+p {
+    font-family: Montserrat;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+.title {
+    font-size: 50حء;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+.underlined {
+    text-decoration: underline;
+  }
